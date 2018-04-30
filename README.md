@@ -1,6 +1,6 @@
 # The State of Open Data on School Bullying and Harassment
 
-By [Two Sigma Data Clinic](https://www.twosigma.com/about/data-clinic/#home) (DataClinicInfo@twosigma.com)
+By [Two Sigma Data Clinic](https://www.twosigma.com/about/data-clinic/#home) (DataClinicInfo at twosigma.com)
 
 The Two Sigma Data Clinic conducted a comparative analysis of the open data on bullying and harassment in New York City schools from federal and local NYC sources. 
 
