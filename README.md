@@ -1,3 +1,5 @@
+**This project is no longer maintained by Two Sigma. We continue to encourage independent development.**
+
 # The State of Open Data on School Bullying and Harassment
 
 By [Data Clinic](https://www.twosigma.com/about/data-clinic/#home) (dataclinic@twosigma.com)
